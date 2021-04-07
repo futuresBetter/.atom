@@ -1,0 +1,14 @@
+"*":
+  core:
+    colorProfile: "srgb"
+    disabledPackages: [
+      "teletype"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "atom-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor: {}
+  "exception-reporting":
+    userId: "19b2bec3-6bb1-410c-b3e1-cc645cd89dac"
